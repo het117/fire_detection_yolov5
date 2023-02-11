@@ -1,6 +1,6 @@
 # 실습 자료
-fire_dataset = https://drive.google.com/file/d/1-CGPXotsVtiJYZJfB5ZmQnrbdcm7LsCf/view?usp=share_link<br>
-pre_trained_model(10 epoch) = https://drive.google.com/file/d/1KbPC9nfu-M0y3pCj8WsdewZmmllJCiHT/view?usp=share_link<br><br>
+fire_dataset : https://drive.google.com/file/d/1-CGPXotsVtiJYZJfB5ZmQnrbdcm7LsCf/view?usp=share_link<br>
+pre_trained_model(10 epoch) : https://drive.google.com/file/d/1KbPC9nfu-M0y3pCj8WsdewZmmllJCiHT/view?usp=share_link<br><br>
 
 # 실행방법
 1 pip install -r yolov5/requirements.txt<br>
